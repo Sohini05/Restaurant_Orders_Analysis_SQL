@@ -41,6 +41,7 @@ The project is based on two tables:
 - Which dishes sell best during peak times?
 - Which day of the week has the most orders?
 - What are the top 5 highest-value orders?
+- What is the total dishes count for each category among the top five highest-spending orders?
 - Which expensive items are underperforming?
 
 ---
