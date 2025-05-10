@@ -69,17 +69,19 @@ The project is based on two tables:
 
 ## 📁 Files Included
 
-- restaurant_orders.sql — all SQL queries
-- restaurant_orders_analysis.pdf — visual report (presentation-style)
-- menu.csv, orders.csv — sample datasets for practice
+- Data_Cleaning.sql - Data claning sql queries
+- restaurant_db_queries.sql— all SQL queries for finding insights
+- Restaurant_Orders_Analysis_SQL.pdf — visual report (presentation-style)
+- menu.csv, orders.csv — datasets 
 
 ---
 
 ## 🚀 How to Run
 
-1. Import orders.csv and menu.csv into your SQL environment (PostgreSQL recommended)
-2. Run queries from restaurant_orders.sql in sequence
-3. Explore, adapt, and expand the analysis as needed!
+1. Import orders.csv and menu.csv into your SQL environment
+2. Run queries from Data_Cleaning.sql to get the cleaned data
+3. Run queries from restaurant_db_queries.sql in sequence
+4. Explore, adapt and expand the analysis as needed!
 
 ---
 
