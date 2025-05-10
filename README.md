@@ -51,7 +51,7 @@ The project is based on two tables:
 - JOIN clauses to merge orders and menu data
 - Aggregations (SUM, COUNT, AVG) and GROUP BY for summaries
 - CTEs (Common Table Expressions) for modular query design
-- Window Functions (RANK(), ROW_NUMBER()) to find top values
+- Window Functions to find top values
 - CASE statements to categorize time-of-day buckets
 - DATE functions to extract weekdays
 - Subqueries for multi-step logic (e.g., filtering top orders)
